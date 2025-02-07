@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Universal-Translator/static/css/main.abd3bfb0.css",
+    "main.js": "/Universal-Translator/static/js/main.f1484d61.js",
+    "index.html": "/Universal-Translator/index.html",
+    "main.abd3bfb0.css.map": "/Universal-Translator/static/css/main.abd3bfb0.css.map",
+    "main.f1484d61.js.map": "/Universal-Translator/static/js/main.f1484d61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd3bfb0.css",
+    "static/js/main.f1484d61.js"
+  ]
+}
