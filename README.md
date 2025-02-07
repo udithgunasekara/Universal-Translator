@@ -2,6 +2,9 @@
 
 A modern, responsive web application that provides instant text translation services using Google's Translation API. Built with React and styled with Tailwind CSS, this application offers a clean, intuitive interface for translating text between multiple languages.
 
+## Note:
+Based on the project requirements and complexity, I decided not to go with props drilling and ContextAPI for data pass. Keep the implementation simple and solid.
+
 ## Features
 
 - Real-time text translation to English
