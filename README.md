@@ -1,3 +1,6 @@
+# Live Page
+ https://udithgunasekara.github.io/Universal-Translator/
+
 # Universal Translator
 
 A modern, responsive web application that provides instant text translation services using Google's Translation API. Built with React and styled with Tailwind CSS, this application offers a clean, intuitive interface for translating text between multiple languages.
