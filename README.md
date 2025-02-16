@@ -21,19 +21,6 @@ Based on the project requirements and complexity, I decided not to go with props
 - **Translation Service:** Google Translation API
 - **Deployment:** GitHub Pages
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── TranslationInput.jsx
-│   └── TranslationButton.jsx
-├── service/
-│   └── translationService.js
-|__ translator.jsx
-└── App.js
-```
-
 ## Setup Instructions
 
 1. Clone the repository:
