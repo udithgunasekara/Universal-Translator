@@ -38,7 +38,7 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/udithgunasekara/Universal-Translator.git
 ```
 
 2. Install dependencies:
@@ -46,14 +46,7 @@ git clone [your-repository-url]
 npm install
 ```
 
-3. Install GitHub Pages for deployment:
-```bash
-npm install gh-pages --save-dev
-```
-
-4. Configure your Google Translation API credentials in your environment variables (refer to Google Cloud Console documentation for API setup)
-
-5. Start the development server:
+4. Start the development server:
 ```bash
 npm start
 ```
